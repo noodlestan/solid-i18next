@@ -7,7 +7,7 @@
     "@types/jest": "^29.5.7",
     "babel-preset-solid": "^1.8.4",
     "html-parse-string": "^0.0.9",
-    "i18next": "^23.6.0",
+    "i18next": "^26.3.4",
     "i18next-http-backend": "^2.3.1",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
